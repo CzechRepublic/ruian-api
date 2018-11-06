@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RUIAN API | fnx.io</title>
+    <meta name="description" content="RUIAN API">
+    <link rel="stylesheet" href="packages/fnx_ui/css/fnx_ui.css">
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <script src="packages/browser/dart.js" async defer></script>
+    <script src="dart/main.dart" type="application/dart" async defer></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-72457348-2', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body>
+
+<div class="content bg--white">
+    <div class="margin--big--bottom">
+        <a href="https://fnx.io" target="_blank">
+            <img src="img/fnx-io.svg" class="fnx-logo">
+        </a>
+        <h1 class="heading">RUIAN API</h1>
+        <p class="subheading"><a target="_blank"
+            href="http://www.cuzk.cz/Uvod/Produkty-a-sluzby/RUIAN/RUIAN-(1).aspx">Registr RUIAN</a>
+            je užitečná věc. Ale připojit se na něj obnáší prokousat se nehoráznými
+            <a target="_blank" href="http://www.szrcr.cz/vyvojari">stohy dokumentace</a>.</p>
+        <p class="subheading">A co za to dostanete?</p>
+        <p class="subheading">SOAP rozhraní&hellip; 👎</p>
+
+        <p class="paragraph">
+            Protože máme raději REST (JSON over HTTP) než SOAP, vyřešili jsme si to po svém. Data RUIANu jsou naštěstí volně ke stažení
+            a jsme tak malá zemička, že se všechny naše adresy dají obsluhovat in-memory. A když už to máme, proč se nerozdělit.
+            Nasazenou verzi našeho řešení najdete na
+        </p>
+        <p class="paragraph text--center bold">
+            https://ruian.fnx.io/
+        </p>
+    </div>
+
+    <div class="panel padding--big margin--big--vertical bg--light-grey">
+        <h1>Validator</h1>
+        <p>Jednou ze dvou cest jak API využít je validátor adres. Pošlete nám adresu, kterou vám uživatel vyplnil, a my vám potrvdíme,
+        jestli adresa existuje. Nebo najdeme takovou, která by to mohla být.</p>
+
+        <div class="panel panel--raising margin--big--vertical bg--white">
+            <div class="panel__header">
+                <h2>validate</h2>
+            </div>
+            <div class="panel__content">
+                <p>Služba validate se pokusí zadanou adresu najít v registru. Když se to nepodaří, pokusí se najít vhodného kandidáta (možná překlep v
+                ulici, nebo názvu obce, možná jsou přehozená čísla orientační a popisná&hellip;).</p>
+                <h3>GET request</h3>
+                <pre class="panel padding--small bg--light-grey">curl http://localhost:8123/api/v1/ruian/validate?municipalityName={municipalityName}&amp;zip={zip}&amp;cp={cp}&amp;street={streetName}</pre>
+                <h4>Parametry</h4>
+                <ul>
+                    <li><code>municipalityName</code> &ndash; název obce</li>
+                    <li><code>zip</code> &ndash; PSČ</li>
+                    <li><code>ce</code> &ndash; Číslo evidenční.</li>
+                    <li><code>co</code> &ndash; číslo orientační</li>
+                    <li><code>cp</code> &ndash; číslo popisné</li>
+                    <li><code>street</code> &ndash; název ulice</li>
+                </ul>
+                <h4>Odpověď</h4>
+                <p>Jako odpověd dostanete JSON podobný tomuto:</p>
+                <pre class="panel padding--small bg--light-grey">
+{
+    "status": "POSSIBLE",
+    "message": null,
+    "place": {
+        "confidence": 0.9413223140495868,
+        "municipalityId": 546801,
+        "municipalityName": "Nová Včelnice",
+        "streetName": "Zámecká",
+        "ce": null,
+        "cp": "2",
+        "co": null,
+        "zip": 37842
+    }
+}</pre>
+
+                <div class="text--right">
+                    <a class="btn margin--small--bottom" href="http://localhost:8123/api/v1/ruian/validate?municipalityName=Frýdlant&zip=46401&cp=4001&street=Z%C3%A1meck%C3%A1" target="_blank">demo</a>
+                </div>
+
+                <h4>Status</h4>
+                <ul>
+                    <li><code>"ERROR"</code> &ndash; Chyba v datech dotazu.</li>
+                    <li><code>"NOT_FOUND"</code> &ndash; Nenalezena žádná data.</li>
+                    <li><code>"POSSIBLE"</code> &ndash; Shoda s malou odchylkou.</li>
+                    <li><code>"MATCH"</code> &ndash; Shoda.</li>
+                </ul>
+
+                <h4>Message</h4>
+                <div class="margin--small--bottom">
+                    <p>Popis stavu nebo chyby.</p>
+                </div>
+
+                <h4>Place</h4>
+                <ul>
+                    <li><code>confidence</code> &ndash; Přesnost shody nalezeného místa.</li>
+                    <li><code>municipalityId</code> &ndash; ID obce.</li>
+                    <li><code>municipalityName</code> &ndash; Název obce.</li>
+                    <li><code>streetName</code> &ndash; Název ulice.</li>
+                    <li><code>ce</code> &ndash; Číslo evidenční.</li>
+                    <li><code>cp</code> &ndash; Číslo popisné.</li>
+                    <li><code>co</code> &ndash; Číslo orientační.</li>
+                    <li><code>zip</code> &ndash; PSČ.</li>
+                </ul>
+
+                <h4>HTTP kód</h4>
+                <ul>
+                    <li><code>200</code> &ndash; OK.</li>
+                    <li><code>422</code> &ndash; Chybějící parametry.</li>
+                    <li><code>500</code> &ndash; Interní chyba serveru.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel padding--big margin--big--vertical bg--light-grey">
+        <h1>Builder</h1>
+        <p>Druhou z cest jak API využít je builder adres. Postupně se dotazujte na region, obec, ulici a místo a ke konci získáte všechny informace o daném místě.</p>
+
+        <div class="panel margin--big--vertical">
+            <div class="panel__header">
+                <h2>regions</h2>
+            </div>
+            <div class="panel__content bg--white">
+                <h3>GET request</h3>
+                <pre class="panel padding--small bg--light-grey">curl http://localhost:8123/api/v1/ruian/build/regions</pre>
+                <h4>Odpověď</h4>
+                <p>Jako odpověd dostanete JSON podobný tomuto:</p>
+                <pre class="panel padding--small bg--light-grey">
+{
+    "data": [
+        {
+            "regionId": "CZ010",
+            "regionName": "Hlavní město Praha"
+        },
+        {
+            "regionId": "CZ020",
+            "regionName": "Středočeský kraj"
+        }
+    ]
+}</pre>
+
+                <div class="text--right">
+                    <a class="btn margin--small--bottom" href="http://localhost:8123/api/v1/ruian/build/regions" target="_blank">demo</a>
+                </div>
+
+                <h4>Data</h4>
+                <ul>
+                    <li><code>regionId</code> &ndash; kód kraje.</li>
+                    <li><code>regionName</code> &ndash; Název kraje.</li>
+                </ul>
+
+                <h4>HTTP kód</h4>
+                <ul>
+                    <li><code>200</code> &ndash; OK.</li>
+                    <li><code>422</code> &ndash; Chybějící parametry.</li>
+                    <li><code>500</code> &ndash; Interní chyba serveru.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="panel margin--big--vertical">
+            <div class="panel__header">
+                <h2>municipaties</h2>
+            </div>
+            <div class="panel__content bg--white">
+                <h3>GET request</h3>
+                <pre class="panel padding--small bg--light-grey">curl http://localhost:8123/api/v1/ruian/build/municipalities?regionId={regionId}</pre>
+                <h4>Parametry</h4>
+                <ul>
+                    <li><code>regionId</code> &ndash; kód kraje</li>
+                </ul>
+                <h4>Odpověď</h4>
+                <p>Jako odpověd dostanete JSON podobný tomuto:</p>
+                <pre class="panel padding--small bg--light-grey">
+{
+    "data": [
+        {
+            "municipalityId": 561631,
+            "municipalityName": "Jablonné v Podještědí"
+        },
+        {
+            "municipalityId": 513890,
+            "municipalityName": "Skalka u Doks"
+        }
+    ]
+}</pre>
+
+                <div class="text--right">
+                    <a class="btn margin--small--bottom" href="http://localhost:8123/api/v1/ruian/build/municipalities?regionId=CZ051" target="_blank">demo</a>
+                </div>
+
+                <h4>Data</h4>
+                <ul>
+                    <li><code>municipalityId</code> &ndash; kód obce.</li>
+                    <li><code>municipalityName</code> &ndash; Název obce.</li>
+                </ul>
+
+                <h4>HTTP kód</h4>
+                <ul>
+                    <li><code>200</code> &ndash; OK.</li>
+                    <li><code>422</code> &ndash; Chybějící parametry.</li>
+                    <li><code>500</code> &ndash; Interní chyba serveru.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="panel margin--big--vertical">
+            <div class="panel__header">
+                <h2>streets</h2>
+            </div>
+            <div class="panel__content bg--white">
+                <h3>GET request</h3>
+                <pre class="panel padding--small bg--light-grey">curl http://localhost:8123/api/v1/ruian/build/streets?municipalityId={municipalityId}</pre>
+                <h4>Parametry</h4>
+                <ul>
+                    <li><code>municipalityId</code> &ndash; kód obce</li>
+                </ul>
+                <h4>Odpověď</h4>
+                <p>Jako odpověd dostanete JSON podobný tomuto:</p>
+                <pre class="panel padding--small bg--light-grey">
+{
+    "data": [
+        {
+            "streetName": "Liberecká"
+        },
+        {
+            "streetName": "Pod Špičákem"
+        }
+    ]
+}</pre>
+
+                <div class="text--right">
+                    <a class="btn margin--small--bottom" href="http://localhost:8123/api/v1/ruian/build/streets?municipalityId=564028" target="_blank">demo</a>
+                </div>
+
+                <h4>Data</h4>
+                <ul>
+                    <li><code>streetName</code> &ndash; Název ulice.</li>
+                </ul>
+
+                <h4>HTTP kód</h4>
+                <ul>
+                    <li><code>200</code> &ndash; OK.</li>
+                    <li><code>422</code> &ndash; Chybějící parametry.</li>
+                    <li><code>500</code> &ndash; Interní chyba serveru.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="panel margin--big--vertical">
+            <div class="panel__header">
+                <h2>places</h2>
+            </div>
+            <div class="panel__content bg--white">
+                <h3>GET request</h3>
+                <pre class="panel padding--small bg--light-grey">curl http://localhost:8123/api/v1/ruian/build/places?municipalityId={municipalityId}&amp;streetName={streetName}</pre>
+                <h4>Parametry</h4>
+                <ul>
+                    <li><code>municipalityId</code> &ndash; kód obce</li>
+                    <li><code>streetName</code> &ndash; název ulice</li>
+                </ul>
+                <h4>Odpověď</h4>
+                <p>Jako odpověd dostanete JSON podobný tomuto:</p>
+                <pre class="panel padding--small bg--light-grey">
+{
+    "data": [
+        {
+            "placeCe": null,
+            "placeCp": "2",
+            "placeCo": null,
+            "placeZip": 47001,
+            "placeId": 23451891
+        },
+        {
+            "placeCe": null,
+            "placeCp": "3",
+            "placeCo": null,
+            "placeZip": 47001,
+            "placeId": 23451904
+        }
+    ]
+}</pre>
+
+                <div class="text--right">
+                    <a class="btn margin--small--bottom" href="http://localhost:8123/api/v1/ruian/build/places?municipalityId=564028&streetName=Z%C3%A1meck%C3%A1" target="_blank">demo</a>
+                </div>
+
+                <h4>Data</h4>
+                <ul>
+                    <li><code>placeCe</code> &ndash; Číslo evidenční.</li>
+                    <li><code>placeCp</code> &ndash; Číslo popisné.</li>
+                    <li><code>placeCo</code> &ndash; Číslo orientační.</li>
+                    <li><code>placeZip</code> &ndash; PSČ.</li>
+                    <li><code>placeId</code> &ndash; kód místa.</li>
+                </ul>
+
+                <h4>HTTP kód</h4>
+                <ul>
+                    <li><code>200</code> &ndash; OK.</li>
+                    <li><code>422</code> &ndash; Chybějící parametry.</li>
+                    <li><code>500</code> &ndash; Interní chyba serveru.</li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+
+</div>
+</body>
+</html>
+
+<script>
+    var verifyCallback = function(response) {
+        dartRecaptchaHandler(response);
+        grecaptcha.reset();
+    };
+</script>

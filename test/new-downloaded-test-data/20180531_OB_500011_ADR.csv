@@ -1,0 +1,732 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód MOP;Název MOP;Kód části obce;Název části obce;Kód ulice;Název ulice;Typ SO;Číslo domovní;Číslo orientační;Znak čísla orientačního;PSČ;Souřadnice Y;Souřadnice X;Platí Od
+4192575;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;1;;;76311;515561.05;1166540.03;2014-02-12T00:00:00
+4192583;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;2;;;76311;515542.01;1166548.76;2014-02-12T00:00:00
+4192591;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;3;;;76311;515519.61;1166552.19;2014-02-12T00:00:00
+4192605;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;4;;;76311;515505.29;1166550.25;2014-02-12T00:00:00
+4192613;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;6;;;76311;515477.05;1166546.82;2014-02-12T00:00:00
+4192621;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;9;;;76311;515431.12;1166534.06;2013-12-04T00:00:00
+4192630;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;10;;;76311;515411.45;1166517.39;2013-12-04T00:00:00
+4192648;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;11;;;76311;515395.33;1166502.09;2013-12-04T00:00:00
+4192656;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;12;;;76311;517021.71;1166495.37;2013-12-04T00:00:00
+4192664;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;13;;;76311;515365.65;1166472.47;2013-12-04T00:00:00
+4192672;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;14;;;76311;515356.99;1166461.54;2013-12-04T00:00:00
+4192681;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;15;;;76311;515780.47;1166405.69;2013-12-04T00:00:00
+4192699;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;16;;;76311;515336.84;1166416.32;2014-02-12T00:00:00
+4192702;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;17;;;76311;515656.72;1166489.32;2013-12-04T00:00:00
+4192711;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;19;;;76311;515320.85;1166360.59;2013-12-04T00:00:00
+4192737;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;21;;;76311;515358.38;1166328.25;2013-12-04T00:00:00
+4192745;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;24;;;76311;515324.50;1166292.09;2013-12-04T00:00:00
+4192753;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;25;;;76311;515570.30;1166445.85;2014-02-12T00:00:00
+4192761;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;26;;;76311;515635.49;1166579.91;2013-12-04T00:00:00
+4192770;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;27;;;76311;515233.69;1166605.00;2013-12-04T00:00:00
+4192788;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;28;;;76311;515276.67;1166412.09;2013-12-04T00:00:00
+4192796;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;29;;;76311;515261.72;1166423.22;2013-12-04T00:00:00
+4192800;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;30;;;76311;515287.33;1166448.91;2013-12-04T00:00:00
+4192818;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;31;;;76311;515658.48;1168682.08;2014-02-12T00:00:00
+4192826;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;32;;;76311;515544.03;1166800.30;2013-12-04T00:00:00
+4192834;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;34;;;76311;515421.00;1166482.00;2013-12-04T00:00:00
+4192842;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;35;;;76311;515326.51;1166500.65;2013-12-04T00:00:00
+4192869;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;37;;;76311;515517.11;1166737.53;2013-12-04T00:00:00
+4192877;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;38;;;76311;515340.40;1166521.71;2013-12-04T00:00:00
+4192885;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;39;;;76311;515189.25;1166662.66;2013-12-04T00:00:00
+4192893;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;40;;;76311;515330.67;1166507.53;2013-12-04T00:00:00
+4192907;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;41;;;76311;515286.03;1166519.38;2013-12-04T00:00:00
+4192915;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;43;;;76311;515277.21;1166550.46;2013-12-04T00:00:00
+4192923;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;44;;;76311;515264.24;1166571.13;2013-12-04T00:00:00
+4192931;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;46;;;76311;515213.91;1166617.74;2013-12-04T00:00:00
+4192940;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;47;;;76311;515642.80;1166504.52;2013-12-04T00:00:00
+4192958;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;48;;;76311;515178.82;1166624.58;2013-12-04T00:00:00
+4192966;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;49;;;76311;515134.68;1166655.33;2013-12-04T00:00:00
+4192974;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;50;;;76311;515109.55;1166661.39;2013-12-04T00:00:00
+4192982;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;52;;;76311;515048.86;1166649.96;2013-12-04T00:00:00
+4192991;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;53;;;76311;515023.67;1166660.49;2013-12-04T00:00:00
+4193008;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;55;;;76311;514990.79;1166673.37;2013-12-04T00:00:00
+4193016;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;56;;;76311;514975.80;1166673.76;2014-02-03T00:00:00
+4193032;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;58;;;76311;514940.99;1166676.22;2013-12-04T00:00:00
+4193067;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;61;;;76311;515697.75;1166539.02;2013-12-04T00:00:00
+4193075;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;62;;;76311;515078.07;1166683.03;2013-12-04T00:00:00
+4193083;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;63;;;76311;515223.67;1166653.38;2013-12-04T00:00:00
+4193091;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;64;;;76311;515001.17;1166661.56;2013-12-04T00:00:00
+4193113;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645486;Kút;č.p.;67;;;76311;515331.12;1166583.67;2014-02-12T00:00:00
+4193121;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645486;Kút;č.p.;71;;;76311;515369.56;1166546.45;2014-02-12T00:00:00
+4193130;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645486;Kút;č.p.;72;;;76311;515341.44;1166552.52;2014-02-12T00:00:00
+4193148;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645486;Kút;č.p.;73;;;76311;515336.64;1166560.50;2014-02-12T00:00:00
+4193156;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;74;;;76311;515430.64;1166560.67;2014-02-12T00:00:00
+4193164;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;75;;;76311;515462.35;1166582.22;2013-12-04T00:00:00
+4193172;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;76;;;76311;515469.03;1166597.31;2013-12-04T00:00:00
+4193181;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;77;;;76311;515469.59;1166605.50;2013-12-04T00:00:00
+4193199;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;78;;;76311;515479.16;1166634.69;2013-12-04T00:00:00
+4193211;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;80;;;76311;515498.26;1166670.06;2013-12-04T00:00:00
+4193229;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;82;;;76311;515548.36;1166732.41;2013-12-04T00:00:00
+4193245;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;84;;;76311;515539.48;1166689.61;2013-12-04T00:00:00
+4193253;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;85;;;76311;515553.90;1166637.79;2013-12-04T00:00:00
+4193261;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;86;;;76311;515556.40;1166622.61;2013-12-04T00:00:00
+4193270;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;88;;;76311;515524.54;1166583.51;2013-12-04T00:00:00
+4193296;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;90;;;76311;515496.38;1166578.09;2013-12-04T00:00:00
+4193300;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;91;;;76311;515533.35;1166584.08;2013-12-04T00:00:00
+4193318;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;92;;;76311;515549.78;1166574.52;2013-12-04T00:00:00
+4193342;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;95;;;76311;515600.15;1166567.02;2013-12-04T00:00:00
+4193351;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;96;;;76311;515588.43;1166555.35;2013-12-04T00:00:00
+4193369;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;97;;;76311;515666.71;1167059.77;2013-12-04T00:00:00
+4193491;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;118;;;76311;515629.16;1166600.52;2013-12-04T00:00:00
+4193504;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;119;;;76311;515551.18;1166715.50;2013-12-04T00:00:00
+4193555;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;126;;;76311;515298.96;1166480.58;2013-12-04T00:00:00
+4193563;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;127;;;76311;515525.18;1166628.91;2013-12-04T00:00:00
+4193806;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;162;;;76311;515528.04;1166285.39;2014-02-12T00:00:00
+4193814;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;164;;;76311;515709.29;1166462.50;2013-12-04T00:00:00
+4193831;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;166;;;76311;515673.80;1166550.65;2013-12-04T00:00:00
+4193849;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;167;;;76311;515900.01;1166874.46;2013-12-04T00:00:00
+4193857;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;168;;;76311;515714.34;1166702.36;2013-12-04T00:00:00
+4193881;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;172;;;76311;514924.06;1166658.78;2013-12-04T00:00:00
+4193890;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;173;;;76311;515720.68;1166720.02;2013-12-04T00:00:00
+4193911;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;175;;;76311;515870.93;1166145.06;2013-12-04T00:00:00
+4193920;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;176;;;76311;515143.54;1166657.12;2013-12-04T00:00:00
+4193946;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;179;;;76311;515052.62;1166661.32;2013-12-04T00:00:00
+4193954;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;180;;;76311;514858.59;1166690.02;2013-12-04T00:00:00
+4193962;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;181;;;76311;514842.25;1166693.48;2013-12-04T00:00:00
+4193971;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;182;;;76311;514824.17;1166696.14;2013-12-04T00:00:00
+4193989;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;183;;;76311;515604.85;1166473.72;2014-02-12T00:00:00
+4193997;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;184;;;76311;515535.33;1166918.72;2013-12-04T00:00:00
+4194004;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;185;;;76311;515379.16;1166488.56;2013-12-04T00:00:00
+4194012;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;186;;;76311;514941.99;1166503.88;2015-05-27T00:00:00
+4194021;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;187;;;76311;514920.43;1166833.11;2013-12-04T00:00:00
+4194039;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;188;;;76311;515138.48;1166493.54;2016-11-21T00:00:00
+4194047;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;190;;;76311;515851.61;1166154.00;2013-12-04T00:00:00
+4194055;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;191;;;76311;515893.19;1166136.68;2013-12-04T00:00:00
+4194071;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;193;;;76311;515694.06;1166734.88;2013-12-04T00:00:00
+4194098;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;195;;;76311;515740.22;1166731.52;2013-12-04T00:00:00
+4194101;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;196;;;76311;515091.36;1166512.52;2013-12-04T00:00:00
+4194110;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;197;;;76311;515805.52;1166174.23;2013-12-04T00:00:00
+4194128;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;199;;;76311;515783.09;1166745.96;2013-12-04T00:00:00
+4194136;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;200;;;76311;515119.48;1166499.04;2013-12-04T00:00:00
+4194144;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;201;;;76311;514976.87;1166508.16;2013-12-04T00:00:00
+4194152;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;202;;;76311;515011.86;1166659.43;2013-12-04T00:00:00
+4194187;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;207;;;76311;515905.91;1166133.36;2013-12-04T00:00:00
+4194195;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;208;;;76311;515722.24;1166452.83;2013-12-04T00:00:00
+4194209;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;209;;;76311;515728.99;1166447.68;2013-12-04T00:00:00
+4194217;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645486;Kút;č.p.;210;;;76311;515350.00;1166548.39;2014-02-12T00:00:00
+4194233;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;212;;;76311;514970.62;1166739.16;2013-12-04T00:00:00
+4194241;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;213;;;76311;515727.84;1166724.91;2013-12-04T00:00:00
+4194250;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;214;;;76311;515373.76;1166520.60;2013-12-04T00:00:00
+4194268;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;215;;;76311;514542.76;1166782.32;2013-12-04T00:00:00
+4194276;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;216;;;76311;514551.68;1166778.46;2013-12-04T00:00:00
+4194284;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;217;;;76311;516002.24;1166091.16;2013-12-04T00:00:00
+4194292;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;218;;;76311;515830.30;1166160.74;2013-12-04T00:00:00
+4194306;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;219;;;76311;515807.40;1166749.29;2013-12-04T00:00:00
+4194314;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;220;;;76311;515632.75;1166614.91;2013-12-04T00:00:00
+4194322;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;221;;;76311;516426.60;1166368.29;2013-12-04T00:00:00
+4194349;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;223;;;76311;514885.66;1166684.31;2013-12-04T00:00:00
+4194365;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;226;;;76311;515723.25;1166208.53;2013-12-04T00:00:00
+4194373;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;227;;;76311;515130.93;1166682.98;2013-12-04T00:00:00
+4194381;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;228;;;76311;515591.68;1166504.36;2014-02-12T00:00:00
+4194390;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;229;;;76311;515015.86;1166693.11;2013-12-04T00:00:00
+4194403;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;230;;;76311;515109.81;1166505.29;2013-12-04T00:00:00
+4194411;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;231;;;76311;515865.39;1166793.41;2013-12-04T00:00:00
+4194420;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;232;;;76311;515678.03;1166666.62;2013-12-04T00:00:00
+4194446;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;234;;;76311;515716.73;1166272.88;2013-12-04T00:00:00
+4194454;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;235;;;76311;515218.35;1166448.35;2013-12-04T00:00:00
+4194462;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;237;;;76311;515246.45;1166599.88;2013-12-04T00:00:00
+4194489;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796808;Příční;č.p.;239;;;76311;515748.89;1166386.78;2014-02-12T00:00:00
+4194497;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;241;;;76311;515708.47;1166216.73;2013-12-04T00:00:00
+4194501;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;242;;;76311;514957.42;1166714.24;2013-12-04T00:00:00
+4194519;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;244;;;76311;515282.60;1166543.04;2013-12-04T00:00:00
+4194527;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;245;;;76311;515496.25;1166696.78;2013-12-04T00:00:00
+4194535;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;246;;;76311;515682.02;1166618.74;2013-12-04T00:00:00
+4194543;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;247;;;76311;515854.97;1166332.02;2013-12-04T00:00:00
+4194551;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796808;Příční;č.p.;248;;;76311;515713.07;1166322.06;2014-02-12T00:00:00
+4194560;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796808;Příční;č.p.;249;;;76311;515735.66;1166359.87;2014-02-12T00:00:00
+4194578;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796808;Příční;č.p.;250;;;76311;515693.78;1166270.67;2014-02-12T00:00:00
+4194586;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;251;;;76311;515755.40;1166738.44;2013-12-04T00:00:00
+4194594;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;252;;;76311;515696.96;1166281.48;2014-02-12T00:00:00
+4194608;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;253;;;76311;515032.19;1166539.36;2013-12-04T00:00:00
+4194632;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796808;Příční;č.p.;256;;;76311;515729.28;1166344.55;2014-02-12T00:00:00
+4194641;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;257;;;76311;514951.97;1166823.62;2013-12-04T00:00:00
+4194659;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;258;;;76311;515471.62;1166707.97;2013-12-04T00:00:00
+4194667;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;260;;;76311;515049.55;1166528.79;2013-12-04T00:00:00
+4194675;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;261;;;76311;515657.22;1166234.08;2014-02-12T00:00:00
+4194683;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;262;;;76311;515586.25;1166849.05;2013-12-04T00:00:00
+4194691;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;263;;;76311;515190.19;1166460.25;2013-12-04T00:00:00
+4194713;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;265;;;76311;515599.10;1166880.75;2013-12-04T00:00:00
+4194721;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;266;;;76311;515402.40;1166743.00;2014-02-12T00:00:00
+4194730;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;267;;;76311;515457.99;1166713.20;2013-12-04T00:00:00
+4194748;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;268;;;76311;515858.35;1166786.22;2013-12-04T00:00:00
+4194756;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;269;;;76311;515976.68;1166102.49;2013-12-04T00:00:00
+4194781;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;272;;;76311;515603.47;1166893.93;2013-12-04T00:00:00
+4194799;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;273;;;76311;515558.85;1166759.38;2013-12-04T00:00:00
+4194802;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;275;;;76311;515568.27;1166873.63;2013-12-04T00:00:00
+4194811;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;276;;;76311;515784.36;1166183.70;2013-12-04T00:00:00
+4194829;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;277;;;76311;515574.11;1166786.42;2013-12-04T00:00:00
+4194837;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;278;;;76311;515876.49;1166317.27;2013-12-04T00:00:00
+4194845;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;279;;;76311;515905.27;1166293.78;2013-12-04T00:00:00
+4194853;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;280;;;76311;515629.69;1166288.06;2014-02-12T00:00:00
+4194861;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;281;;;76311;515539.96;1166783.30;2013-12-04T00:00:00
+4194870;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;282;;;76311;515608.59;1166304.16;2014-02-12T00:00:00
+4194888;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;283;;;76311;515885.45;1166311.45;2013-12-04T00:00:00
+4194896;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;284;;;76311;515669.89;1166293.36;2014-02-12T00:00:00
+4194900;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;285;;;76311;515740.75;1166265.06;2013-12-04T00:00:00
+4194918;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796816;Příkrá;č.p.;286;;;76311;515975.08;1166392.20;2013-12-04T00:00:00
+4194934;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;291;;;76311;515744.48;1166438.45;2013-12-04T00:00:00
+4194951;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;293;;;76311;515821.87;1166285.28;2013-12-04T00:00:00
+4194969;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;295;;;76311;516026.60;1166151.88;2013-12-04T00:00:00
+4194977;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;296;;;76311;515763.21;1166370.45;2013-12-04T00:00:00
+4194985;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;297;;;76311;515752.49;1166765.68;2013-12-04T00:00:00
+4194993;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;299;;;76311;515782.38;1166358.73;2013-12-04T00:00:00
+4195027;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;302;;;76311;516504.01;1166369.40;2013-12-04T00:00:00
+4195035;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;303;;;76311;514494.59;1166818.21;2013-12-04T00:00:00
+4195051;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;306;;;76311;515067.07;1166519.54;2013-12-04T00:00:00
+4195060;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;307;;;76311;515728.16;1166397.12;2014-02-12T00:00:00
+4195086;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;309;;;76311;515760.38;1166803.05;2013-12-04T00:00:00
+4195094;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;311;;;76311;515759.80;1166311.10;2013-12-04T00:00:00
+4195108;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;312;;;76311;515177.85;1166534.35;2013-12-04T00:00:00
+4195116;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;313;;;76311;515917.03;1166280.08;2013-12-04T00:00:00
+4195124;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;314;;;76311;515473.61;1166622.51;2013-12-04T00:00:00
+4195141;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;316;;;76311;515678.03;1166224.08;2014-02-12T00:00:00
+4195159;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;317;;;76311;515870.09;1166212.98;2013-12-04T00:00:00
+4195167;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;318;;;76311;515473.65;1166367.35;2014-02-12T00:00:00
+4195183;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;320;;;76311;515574.81;1166518.69;2014-02-12T00:00:00
+4195205;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;322;;;76311;514522.51;1166796.97;2013-12-04T00:00:00
+4195230;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;326;;;76311;514687.53;1166821.25;2013-12-04T00:00:00
+4195248;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;327;;;76311;514667.16;1166833.88;2013-12-04T00:00:00
+4195264;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;330;;;76311;515736.91;1166762.22;2013-12-04T00:00:00
+4195272;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;331;;;76311;515054.58;1166702.97;2013-12-04T00:00:00
+4195281;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;332;;;76311;515847.56;1167224.13;2014-02-12T00:00:00
+4195302;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796808;Příční;č.p.;334;;;76311;515753.94;1166352.41;2013-12-04T00:00:00
+4195329;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;336;;;76311;514827.44;1166775.54;2013-12-04T00:00:00
+4195337;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;337;;;76311;515814.61;1166325.02;2013-12-04T00:00:00
+4195345;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;338;;;76311;514600.62;1166754.53;2013-12-04T00:00:00
+4195353;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;340;;;76311;515576.94;1166328.84;2014-02-12T00:00:00
+4195361;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;341;;;76311;514569.25;1166769.65;2013-12-04T00:00:00
+4195388;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;343;;;76311;515679.97;1166355.71;2014-02-12T00:00:00
+4195442;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;351;;;76311;515777.02;1166782.33;2013-12-04T00:00:00
+4195451;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;352;;;76311;515229.58;1166425.99;2013-12-04T00:00:00
+4195493;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;356;;;76311;515856.95;1166481.11;2013-12-04T00:00:00
+4195507;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;357;;;76311;515158.09;1166542.31;2013-12-04T00:00:00
+4195523;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;359;;;76311;515600.43;1166317.73;2014-02-12T00:00:00
+4195531;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;361;;;76311;515571.43;1166901.81;2013-12-04T00:00:00
+4195540;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;362;;;76311;515018.82;1166615.71;2013-12-04T00:00:00
+4195558;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;363;;;76311;515165.58;1166467.12;2013-12-04T00:00:00
+4195566;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;364;;;76311;515002.24;1166809.91;2013-12-04T00:00:00
+4195574;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;365;;;76311;515663.15;1166368.91;2014-02-12T00:00:00
+4195612;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;369;;;76311;515741.96;1166318.43;2013-12-04T00:00:00
+4195621;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;370;;;76311;515627.18;1166386.16;2014-02-12T00:00:00
+4195639;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;371;;;76311;514980.17;1166755.44;2013-12-04T00:00:00
+4195647;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;372;;;76311;515925.74;1166124.17;2013-12-04T00:00:00
+4195655;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;374;;;76311;515831.15;1166527.66;2013-12-04T00:00:00
+4195663;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;375;;;76311;515773.67;1166518.33;2013-12-04T00:00:00
+4195680;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;377;;;76311;515095.73;1166582.11;2013-12-04T00:00:00
+4195698;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;378;;;76311;515152.14;1166476.74;2013-12-04T00:00:00
+4195701;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;379;;;76311;515972.54;1166172.45;2013-12-04T00:00:00
+4195710;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;380;;;76311;514975.72;1166816.82;2013-12-04T00:00:00
+4195728;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;381;;;76311;514991.78;1166707.97;2013-12-04T00:00:00
+4195736;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;382;;;76311;515754.99;1166258.80;2013-12-04T00:00:00
+4195744;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;383;;;76311;515801.27;1166775.09;2013-12-04T00:00:00
+4195761;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;385;;;76311;515826.12;1166231.41;2013-12-04T00:00:00
+4195787;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;387;;;76311;515528.04;1166769.78;2013-12-04T00:00:00
+4195795;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;388;;;76311;515758.81;1166419.50;2013-12-04T00:00:00
+4195809;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;389;;;76311;515946.42;1166182.85;2013-12-04T00:00:00
+4195817;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;390;;;76311;515780.86;1166300.47;2013-12-04T00:00:00
+4195825;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;391;;;76311;515658.68;1166943.16;2013-12-04T00:00:00
+4195833;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;392;;;76311;515902.15;1166436.15;2013-12-04T00:00:00
+4195841;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;393;;;76311;515958.00;1166110.34;2013-12-04T00:00:00
+4195850;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;394;;;76311;515506.93;1166355.85;2014-02-12T00:00:00
+4195876;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;396;;;76311;515654.50;1166435.89;2014-02-12T00:00:00
+4195884;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;397;;;76311;515800.50;1166293.15;2013-12-04T00:00:00
+4195892;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;398;;;76311;515930.72;1166097.20;2013-12-04T00:00:00
+4195906;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;399;;;76311;515598.69;1166390.79;2013-12-04T00:00:00
+4195931;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;402;;;76311;515896.19;1166202.70;2013-12-04T00:00:00
+4195949;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;403;;;76311;514849.54;1166857.85;2013-12-04T00:00:00
+4195957;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;404;;;76311;514467.21;1166835.79;2013-12-04T00:00:00
+4195965;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;405;;;76311;515424.56;1166148.93;2013-12-04T00:00:00
+4195981;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;407;;;76311;514958.71;1166642.98;2013-12-04T00:00:00
+4195990;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;408;;;76311;515643.74;1166371.86;2014-02-12T00:00:00
+4196007;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;409;;;76311;515833.80;1166378.29;2013-12-04T00:00:00
+4196015;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;410;;;76311;515799.82;1166341.03;2013-12-04T00:00:00
+4196023;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;411;;;76311;515698.39;1166345.89;2014-02-12T00:00:00
+4196031;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;412;;;76311;515983.62;1166810.53;2013-12-04T00:00:00
+4196058;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;414;;;76311;515582.02;1166943.95;2013-12-04T00:00:00
+4196066;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;415;;;76311;515672.78;1166429.80;2014-02-12T00:00:00
+4196074;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;416;;;76311;515531.68;1166415.60;2013-12-04T00:00:00
+4196082;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;417;;;76311;515839.68;1166277.92;2013-12-04T00:00:00
+4196104;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;419;;;76311;514886.38;1166846.83;2013-12-04T00:00:00
+4196112;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;420;;;76311;515011.22;1166828.63;2013-12-04T00:00:00
+4196121;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;421;;;76311;515498.13;1166429.61;2013-12-04T00:00:00
+4196147;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;423;;;76311;515768.36;1166485.15;2013-12-04T00:00:00
+4196155;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;424;;;76311;515549.08;1166842.46;2013-12-04T00:00:00
+4196163;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;425;;;76311;515841.98;1166348.00;2013-12-04T00:00:00
+4196171;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;426;;;76311;515815.84;1166385.92;2013-12-04T00:00:00
+4196180;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;427;;;76311;515797.67;1166522.48;2013-12-04T00:00:00
+4196198;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;428;;;76311;515070.83;1166592.18;2013-12-04T00:00:00
+4196201;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;429;;;76311;515618.24;1166251.15;2014-02-12T00:00:00
+4196210;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;430;;;76311;515788.06;1166479.72;2013-12-04T00:00:00
+4196228;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;431;;;76311;515554.55;1166861.36;2013-12-04T00:00:00
+4196236;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;432;;;76311;515036.90;1166607.85;2013-12-04T00:00:00
+4196244;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;433;;;76311;515688.15;1166420.73;2014-02-12T00:00:00
+4196252;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;434;;;76311;515040.73;1166703.99;2013-12-04T00:00:00
+4196261;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;435;;;76311;515084.86;1166649.20;2013-12-04T00:00:00
+4196279;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796816;Příkrá;č.p.;436;;;76311;515953.95;1166354.80;2013-12-04T00:00:00
+4196287;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;437;;;76311;515531.50;1166347.06;2014-02-12T00:00:00
+4196309;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;439;;;76311;515613.51;1166430.43;2014-02-12T00:00:00
+4196317;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;440;;;76311;515545.50;1166938.10;2013-12-04T00:00:00
+4196325;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;441;;;76311;515463.34;1166445.01;2013-12-04T00:00:00
+4196341;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;443;;;76311;515903.75;1166492.85;2013-12-04T00:00:00
+4196350;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;444;;;76311;515939.52;1166117.47;2013-12-04T00:00:00
+4196368;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;445;;;76311;515739.73;1166202.29;2013-12-04T00:00:00
+4196376;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796816;Příkrá;č.p.;446;;;76311;515935.45;1166318.66;2013-12-04T00:00:00
+4196384;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;447;;;76311;515476.34;1166805.29;2013-12-04T00:00:00
+4196392;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;448;;;76311;515502.94;1166978.19;2013-12-04T00:00:00
+4196414;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;450;;;76311;515580.44;1166253.73;2014-02-12T00:00:00
+4196422;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;451;;;76311;515664.69;1166696.14;2013-12-04T00:00:00
+4196431;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;452;;;76311;515504.93;1166295.91;2014-02-12T00:00:00
+4196449;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;453;;;76311;515484.97;1166292.27;2014-02-12T00:00:00
+4196457;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;454;;;76311;515885.31;1166456.34;2013-12-04T00:00:00
+4196465;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;456;;;76311;515112.78;1166572.74;2013-12-04T00:00:00
+4196473;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;457;;;76311;515580.25;1166921.74;2013-12-04T00:00:00
+4196481;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;458;;;76311;515055.23;1166598.94;2013-12-04T00:00:00
+4196490;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;459;;;76311;515040.20;1166799.17;2013-12-04T00:00:00
+4196503;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;460;;;76311;515622.51;1166665.02;2013-12-04T00:00:00
+4196511;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;461;;;76311;515811.43;1166828.06;2013-12-04T00:00:00
+4196520;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;462;;;76311;515543.41;1166824.42;2013-12-04T00:00:00
+4196538;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;463;;;76311;515649.80;1166754.19;2013-12-04T00:00:00
+4196546;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;464;;;76311;515593.18;1166961.87;2013-12-04T00:00:00
+4196554;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;465;;;76311;515564.73;1166974.16;2013-12-04T00:00:00
+4196562;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;466;;;76311;515871.07;1166835.12;2013-12-04T00:00:00
+4196571;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;467;;;76311;515091.89;1166779.20;2013-12-04T00:00:00
+4196589;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;468;;;76311;515143.08;1166757.53;2013-12-04T00:00:00
+4196597;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;469;;;76311;515108.60;1166770.59;2013-12-04T00:00:00
+4196601;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;470;;;76311;515075.06;1166785.42;2013-12-04T00:00:00
+4196619;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;471;;;76311;515126.69;1166766.19;2013-12-04T00:00:00
+4196627;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;472;;;76311;515057.59;1166793.83;2013-12-04T00:00:00
+4196635;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;473;;;76311;515567.48;1166403.31;2013-12-04T00:00:00
+4196643;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;474;;;76311;515641.35;1166718.03;2013-12-04T00:00:00
+4196651;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;475;;;76311;515631.92;1166234.40;2014-02-12T00:00:00
+4196660;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;476;;;76311;515015.95;1166772.33;2013-12-04T00:00:00
+4196678;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;477;;;76311;515024.37;1166769.09;2013-12-04T00:00:00
+4196686;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;478;;;76311;515033.03;1166766.31;2013-12-04T00:00:00
+4196694;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;479;;;76311;515041.37;1166763.15;2013-12-04T00:00:00
+4196708;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;480;;;76311;515049.80;1166759.96;2013-12-04T00:00:00
+4196716;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;481;;;76311;515058.26;1166756.71;2013-12-04T00:00:00
+4196724;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;482;;;76311;515644.32;1166682.03;2013-12-04T00:00:00
+4196732;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;483;;;76311;514994.13;1166863.38;2013-12-04T00:00:00
+4196741;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;484;;;76311;514975.72;1166876.59;2013-12-04T00:00:00
+4196759;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;485;;;76311;515010.25;1166901.63;2013-12-04T00:00:00
+4196767;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;486;;;76311;514982.30;1166913.18;2013-12-04T00:00:00
+4196783;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;488;;;76311;515611.52;1166985.23;2013-12-04T00:00:00
+4196791;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;489;;;76311;515603.03;1166989.29;2013-12-04T00:00:00
+4196805;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;490;;;76311;515594.77;1166993.03;2013-12-04T00:00:00
+4196813;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;491;;;76311;515586.52;1166996.08;2013-12-04T00:00:00
+4196821;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;492;;;76311;515578.36;1166999.53;2013-12-04T00:00:00
+4196830;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;493;;;76311;515570.21;1167003.34;2013-12-04T00:00:00
+4196848;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;494;;;76311;515561.52;1167007.26;2013-12-04T00:00:00
+4196856;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;495;;;76311;515553.68;1167010.86;2013-12-04T00:00:00
+4196864;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;496;;;76311;515544.99;1167014.89;2013-12-04T00:00:00
+4196872;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;497;;;76311;515536.83;1167017.64;2013-12-04T00:00:00
+4196881;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;498;;;76311;515629.40;1166537.07;2013-12-04T00:00:00
+4196902;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;500;;;76311;515601.13;1166647.68;2013-12-04T00:00:00
+4196911;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.p.;501;;;76311;515793.81;1166220.25;2013-12-04T00:00:00
+4196929;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;502;;;76311;515130.06;1166727.00;2013-12-04T00:00:00
+4196953;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;505;;;76311;515946.98;1166405.97;2013-12-04T00:00:00
+4196961;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;506;;;76311;514942.73;1166885.12;2013-12-04T00:00:00
+4196970;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;507;;;76311;515836.96;1166808.33;2013-12-04T00:00:00
+4196996;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;509;;;76311;515492.86;1166737.52;2013-12-04T00:00:00
+4197003;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;510;;;76311;515845.22;1166841.92;2013-12-04T00:00:00
+4197011;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;511;;;76311;515588.98;1166438.04;2014-02-12T00:00:00
+4197038;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;513;;;76311;515521.77;1166755.14;2013-12-04T00:00:00
+4197054;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;515;;;76311;515071.56;1166750.71;2013-12-04T00:00:00
+4197062;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;516;;;76311;515080.04;1166747.65;2013-12-04T00:00:00
+4197071;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;517;;;76311;515088.59;1166744.34;2013-12-04T00:00:00
+4197089;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;518;;;76311;515097.11;1166741.31;2013-12-04T00:00:00
+4197097;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;519;;;76311;515105.50;1166738.09;2013-12-04T00:00:00
+4197101;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.p.;520;;;76311;515114.00;1166734.91;2013-12-04T00:00:00
+4197151;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;526;;;76311;515642.30;1166880.90;2013-12-04T00:00:00
+4197160;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;527;;;76311;515853.44;1166881.57;2013-12-04T00:00:00
+4197194;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;530;;;76311;515709.79;1166402.43;2014-02-12T00:00:00
+4197208;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;531;;;76311;515538.23;1166985.96;2013-12-04T00:00:00
+4197216;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645192;Družstevníků;č.p.;532;;;76311;515514.53;1166996.87;2013-12-04T00:00:00
+4197232;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;534;;;76311;515815.18;1166559.42;2013-12-04T00:00:00
+4197259;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;536;;;76311;515573.31;1166779.17;2013-12-04T00:00:00
+4197267;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;537;;;76311;515552.86;1166452.25;2014-02-12T00:00:00
+4197275;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;538;;;76311;515493.68;1166818.65;2013-12-04T00:00:00
+4197291;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;541;;;76311;515941.63;1166468.02;2013-12-04T00:00:00
+4197305;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;542;;;76311;515958.78;1166452.01;2013-12-04T00:00:00
+4197313;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;543;;;76311;516007.70;1166417.75;2013-12-04T00:00:00
+4197348;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;546;;;76311;515717.78;1166529.50;2013-12-04T00:00:00
+4197356;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;547;;;76311;515914.69;1166907.07;2013-12-04T00:00:00
+4197364;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;548;;;76311;515918.86;1166479.86;2013-12-04T00:00:00
+4197381;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;550;;;76311;515509.29;1166953.36;2013-12-04T00:00:00
+4197402;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;552;;;76311;515673.41;1166727.23;2013-12-04T00:00:00
+4197429;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;554;;;76311;515708.18;1166489.37;2013-12-04T00:00:00
+4197437;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;555;;;76311;515158.36;1166631.39;2013-12-04T00:00:00
+4197445;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;556;;;76311;515863.06;1166916.83;2013-12-04T00:00:00
+4197496;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;562;;;76311;515597.17;1166247.99;2014-02-12T00:00:00
+4197500;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;564;;;76311;515565.50;1166272.22;2014-02-12T00:00:00
+4197518;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;565;;;76311;515886.47;1166912.86;2013-12-04T00:00:00
+4197526;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;566;;;76311;515652.05;1166906.37;2013-12-04T00:00:00
+4197542;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;568;;;76311;515853.88;1166527.89;2013-12-04T00:00:00
+4197551;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;570;;;76311;515769.10;1166579.23;2013-12-04T00:00:00
+4197569;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;571;;;76311;515837.90;1166486.87;2013-12-04T00:00:00
+4197577;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;572;;;76311;515678.06;1166759.90;2013-12-04T00:00:00
+4197585;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;573;;;76311;515535.54;1166459.06;2014-02-12T00:00:00
+4197607;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;580;;;76311;515792.52;1166570.19;2013-12-04T00:00:00
+4197615;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;581;;;76311;515962.08;1166811.06;2013-12-04T00:00:00
+4197623;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;582;;;76311;514946.91;1166914.41;2013-12-04T00:00:00
+4197631;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;583;;;76311;515800.08;1166592.30;2013-12-04T00:00:00
+4197640;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;584;;;76311;515823.42;1166581.90;2013-12-04T00:00:00
+4197658;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;585;;;76311;515800.21;1166633.43;2013-12-04T00:00:00
+4197666;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;586;;;76311;515779.82;1166601.26;2013-12-04T00:00:00
+4197691;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;593;;;76311;515927.31;1166425.53;2013-12-04T00:00:00
+4197704;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645427;Klínek;č.p.;594;;;76311;515835.65;1166616.98;2013-12-04T00:00:00
+4197712;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;595;;;76311;515867.51;1166604.57;2013-12-04T00:00:00
+4197721;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;596;;;76311;515870.69;1166571.02;2013-12-04T00:00:00
+4197739;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;597;;;76311;515880.37;1166886.77;2013-12-04T00:00:00
+4197747;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;598;;;76311;515753.99;1166523.23;2013-12-04T00:00:00
+4197763;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;602;;;76311;515151.17;1166650.84;2013-12-04T00:00:00
+4197771;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;604;;;76311;515464.32;1166298.61;2014-02-12T00:00:00
+4197780;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;605;;;76311;515780.52;1166641.38;2013-12-04T00:00:00
+4197801;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;13;;;76311;513786.82;1171023.51;2014-02-12T00:00:00
+11343991;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;20;;;76311;514988.53;1169968.46;2014-02-12T00:00:00
+11344008;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;57;;;76311;514810.43;1168634.17;2014-02-12T00:00:00
+11344016;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;59;;;76311;514912.00;1168736.06;2014-02-12T00:00:00
+11344024;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;60;;;76311;514702.92;1168861.92;2014-02-12T00:00:00
+11344032;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;65;;;76311;515351.40;1167912.61;2014-02-12T00:00:00
+11344041;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;79;;;76311;515483.83;1166653.05;2013-12-04T00:00:00
+11344059;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;83;;;76311;516573.41;1168308.10;2014-02-12T00:00:00
+11344067;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;89;;;76311;515902.73;1169017.53;2014-02-12T00:00:00
+11344075;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;93;;;76311;516559.32;1168185.48;2014-02-12T00:00:00
+11344083;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;98;;;76311;516074.44;1168475.25;2014-02-12T00:00:00
+11344091;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;99;;;76311;516673.39;1168826.90;2014-02-12T00:00:00
+11344105;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;101;;;76311;516383.59;1169123.35;2014-02-12T00:00:00
+11344113;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;102;;;76311;516541.30;1169518.62;2014-02-12T00:00:00
+11344121;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;104;;;76311;515925.24;1169644.40;2014-02-12T00:00:00
+11344130;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;105;;;76311;516113.43;1169194.92;2014-02-12T00:00:00
+11344148;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;106;;;76311;515588.15;1169209.30;2014-02-12T00:00:00
+11344156;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;107;;;76311;515308.15;1169575.39;2014-02-12T00:00:00
+11344164;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;109;;;76311;515102.77;1169101.70;2014-02-12T00:00:00
+11344172;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;111;;;76311;516066.81;1168554.50;2014-02-12T00:00:00
+11344181;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;115;;;76311;515882.26;1168741.41;2014-02-12T00:00:00
+11344199;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;116;;;76311;515120.09;1169115.87;2014-02-12T00:00:00
+11344202;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;120;;;76311;516128.10;1168467.76;2014-02-12T00:00:00
+11344211;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;121;;;76311;516011.84;1168450.14;2014-02-12T00:00:00
+11344229;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;123;;;76311;515166.76;1167762.75;2014-02-12T00:00:00
+11344237;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;124;;;76311;513907.19;1170517.92;2014-02-12T00:00:00
+11344245;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;128;;;76311;516312.28;1169661.21;2014-02-12T00:00:00
+11344253;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;129;;;76311;516495.05;1169422.82;2014-02-12T00:00:00
+11344261;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;131;;;76311;516489.10;1169192.76;2014-02-12T00:00:00
+11344270;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;132;;;76311;515331.94;1169778.26;2014-02-12T00:00:00
+11344288;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;133;;;76311;516583.37;1168648.73;2014-02-12T00:00:00
+11344296;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;134;;;76311;516082.99;1169186.33;2014-02-12T00:00:00
+11344300;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;135;;;76311;513855.71;1170661.16;2014-02-12T00:00:00
+11344318;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;136;;;76311;515955.53;1169727.40;2014-02-12T00:00:00
+11344326;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;137;;;76311;514822.44;1170001.93;2014-02-12T00:00:00
+11344342;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;143;;;76311;515648.60;1169208.90;2014-02-12T00:00:00
+11344351;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;145;;;76311;516309.72;1169825.92;2014-02-12T00:00:00
+11344369;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;146;;;76311;515327.19;1169400.95;2014-02-12T00:00:00
+11344377;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;148;;;76311;517089.12;1168890.97;2014-02-12T00:00:00
+11344385;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;150;;;76311;514969.82;1168437.13;2014-02-12T00:00:00
+11344393;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;151;;;76311;515811.55;1169040.97;2014-02-12T00:00:00
+11344407;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;153;;;76311;515596.02;1168655.80;2014-02-12T00:00:00
+11344415;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;155;;;76311;516380.19;1168664.34;2014-02-12T00:00:00
+11344423;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;156;;;76311;514911.63;1168558.20;2014-02-12T00:00:00
+11344431;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;159;;;76311;515027.16;1169462.32;2014-02-12T00:00:00
+11344440;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;160;;;76311;516365.49;1168943.08;2014-02-12T00:00:00
+11344458;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;161;;;76311;516137.22;1169148.77;2014-02-12T00:00:00
+11344474;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;170;;;76311;516819.57;1168173.91;2014-02-12T00:00:00
+11344482;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;171;;;76311;515714.53;1169061.28;2014-02-12T00:00:00
+11344491;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;178;;;76311;516158.65;1168475.78;2014-02-12T00:00:00
+11344504;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;192;;;76311;516256.92;1168222.99;2014-02-12T00:00:00
+11344512;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;194;;;76311;515157.86;1169512.54;2014-02-12T00:00:00
+11344521;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;205;;;76311;516154.48;1167800.78;2014-02-12T00:00:00
+11344539;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;206;;;76311;516112.27;1168535.40;2014-02-12T00:00:00
+11344547;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;211;;;76311;515666.05;1169148.14;2014-02-12T00:00:00
+11344555;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;222;;;76311;513830.14;1170724.98;2014-02-12T00:00:00
+11344563;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;225;;;76311;516285.52;1170002.80;2014-02-12T00:00:00
+11344571;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;233;;;76311;516069.74;1168382.72;2014-02-12T00:00:00
+11344580;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;238;;;76311;516095.41;1168476.14;2014-02-12T00:00:00
+11344598;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;254;;;76311;516130.53;1168443.09;2014-02-12T00:00:00
+11344601;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;255;;;76311;516085.41;1168524.27;2014-02-12T00:00:00
+11344610;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;264;;;76311;515828.81;1169033.52;2014-02-12T00:00:00
+11344628;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;270;;;76311;516231.31;1168636.40;2014-02-12T00:00:00
+11344636;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;271;;;76311;515881.45;1168894.70;2014-02-12T00:00:00
+11344652;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;292;;;76311;516029.45;1168504.98;2014-02-12T00:00:00
+11344661;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;300;;;76311;516017.94;1167713.04;2014-02-12T00:00:00
+11344679;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;301;;;76311;516040.95;1167846.62;2014-02-12T00:00:00
+11344687;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;304;;;76311;517160.95;1169360.73;2014-02-12T00:00:00
+11344695;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;308;;;76311;516109.02;1168403.53;2014-02-12T00:00:00
+11344709;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;315;;;76311;516267.93;1168707.41;2014-02-12T00:00:00
+11344717;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;319;;;76311;516173.40;1168165.15;2014-02-12T00:00:00
+11344725;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;321;;;76311;516081.84;1168410.03;2014-02-12T00:00:00
+11344733;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;323;;;76311;515749.40;1168615.90;2014-02-12T00:00:00
+11344741;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;325;;;76311;516216.88;1168142.57;2014-02-12T00:00:00
+11344750;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;328;;;76311;516081.96;1167844.43;2014-02-12T00:00:00
+11344768;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;333;;;76311;515910.75;1167589.94;2014-02-12T00:00:00
+11344776;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;335;;;76311;515971.25;1167920.85;2014-02-12T00:00:00
+11344784;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;342;;;76311;515917.69;1167408.50;2014-02-12T00:00:00
+11344792;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;344;;;76311;516065.89;1168435.57;2014-02-12T00:00:00
+11344806;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;347;;;76311;515619.26;1169233.95;2014-02-12T00:00:00
+11344814;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;349;;;76311;515404.15;1169310.36;2014-02-12T00:00:00
+11344822;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;350;;;76311;516035.65;1168379.03;2014-02-12T00:00:00
+11344831;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;353;;;76311;515921.53;1167659.25;2014-02-12T00:00:00
+11344849;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;354;;;76311;515731.03;1169086.20;2014-02-12T00:00:00
+11344857;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;355;;;76311;516344.87;1168973.97;2014-02-12T00:00:00
+11344865;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;358;;;76311;515922.64;1168859.36;2014-02-12T00:00:00
+11344873;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;366;;;76311;516465.30;1168775.00;2014-02-12T00:00:00
+11344881;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;367;;;76311;516309.90;1169200.85;2014-02-12T00:00:00
+11344890;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;376;;;76311;516007.88;1167623.10;2014-02-12T00:00:00
+11344903;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;384;;;76311;516216.76;1168188.14;2014-02-12T00:00:00
+11344911;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;386;;;76311;516039.06;1168448.47;2014-02-12T00:00:00
+11344920;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;395;;;76311;516379.17;1168963.15;2014-02-12T00:00:00
+11344938;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;400;;;76311;515989.17;1168403.19;2014-02-12T00:00:00
+11344946;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;401;;;76311;516313.23;1169173.97;2014-02-12T00:00:00
+11344954;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;406;;;76311;516285.42;1168677.87;2014-02-12T00:00:00
+11344962;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;413;;;76311;516320.28;1169519.67;2014-02-12T00:00:00
+11344971;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;418;;;76311;515971.96;1167938.00;2014-02-12T00:00:00
+11344989;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;422;;;76311;515994.03;1168010.74;2014-02-12T00:00:00
+11344997;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;438;;;76311;516179.62;1168518.95;2014-02-12T00:00:00
+11345004;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;442;;;76311;515957.31;1167502.65;2014-02-12T00:00:00
+11345012;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;449;;;76311;515978.48;1167572.99;2014-02-12T00:00:00
+11345021;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;487;;;76311;516005.57;1168367.16;2014-02-12T00:00:00
+11345047;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;503;;;76311;516314.84;1169156.13;2014-02-12T00:00:00
+11345055;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;504;;;76311;515959.59;1167456.15;2014-02-12T00:00:00
+11345063;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;508;;;76311;515925.58;1168419.80;2014-02-12T00:00:00
+11345071;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;512;;;76311;516368.31;1168912.68;2014-02-12T00:00:00
+11345080;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;514;;;76311;515953.02;1167483.88;2014-02-12T00:00:00
+11345098;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;521;;;76311;516145.68;1167976.92;2014-02-12T00:00:00
+11345101;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;522;;;76311;516152.55;1168002.26;2014-02-12T00:00:00
+11345110;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;523;;;76311;516157.70;1168021.30;2014-02-12T00:00:00
+11345128;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;525;;;76311;516171.96;1168064.39;2014-02-12T00:00:00
+11345136;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;528;;;76311;516001.26;1168039.20;2014-02-12T00:00:00
+11345144;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;529;;;76311;515348.31;1169363.30;2014-02-12T00:00:00
+11345152;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;533;;;76311;516120.17;1167829.09;2014-02-12T00:00:00
+11345161;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;535;;;76311;516120.42;1167909.22;2014-02-12T00:00:00
+11345179;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;539;;;76311;516002.45;1167584.69;2014-02-12T00:00:00
+11345187;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;544;;;76311;515966.98;1169046.86;2014-02-12T00:00:00
+11345195;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;545;;;76311;516137.63;1167955.12;2014-02-12T00:00:00
+11345209;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;549;;;76311;515989.45;1167993.54;2014-02-12T00:00:00
+11345217;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;551;;;76311;516334.87;1168375.55;2014-02-12T00:00:00
+11345225;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;553;;;76311;515965.80;1167529.54;2014-02-12T00:00:00
+11345233;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;557;;;76311;515912.72;1167758.70;2014-02-12T00:00:00
+11345241;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;558;;;76311;515996.67;1168419.53;2014-02-12T00:00:00
+11345250;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;559;;;76311;516160.44;1168584.64;2014-02-12T00:00:00
+11345268;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;561;;;76311;515620.05;1169147.73;2014-02-12T00:00:00
+11345276;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;567;;;76311;516075.33;1167746.20;2014-02-12T00:00:00
+11345284;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;574;;;76311;515962.07;1168341.54;2014-02-12T00:00:00
+11345292;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;591;;;76311;516109.28;1167880.80;2014-02-12T00:00:00
+11345306;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;592;;;76311;516128.48;1167931.83;2014-02-12T00:00:00
+11345314;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;600;;;76311;516058.69;1167692.43;2014-02-12T00:00:00
+11345322;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;895652;Lipská;č.p.;606;;;76311;514413.99;1166824.90;2013-12-04T00:00:00
+21055025;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;613;;;76311;515772.67;1166736.02;2013-12-04T00:00:00
+21055076;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.ev.;151;;;76311;516749.19;1166414.75;2013-12-04T00:00:00
+24385581;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;601;;;76311;515878.72;1166878.19;2013-12-04T00:00:00
+25018698;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;56;;;76311;513884.98;1170940.88;2014-02-12T00:00:00
+25101935;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;157;;;76311;515654.94;1168612.04;2014-02-12T00:00:00
+25249673;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;621;;;76311;515884.38;1166509.71;2013-12-04T00:00:00
+25254031;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;154;;;76311;517021.63;1166362.69;2013-12-04T00:00:00
+25258443;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;806;;;76311;514474.53;1166912.04;2013-12-04T00:00:00
+25319183;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;603;;;76311;515990.05;1166428.07;2013-12-04T00:00:00
+25319191;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;624;;;76311;515921.82;1167600.56;2014-02-12T00:00:00
+25335499;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;616;;;76311;515927.74;1168389.75;2014-02-12T00:00:00
+25352393;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;287;;;76311;516321.09;1169535.42;2014-02-12T00:00:00
+25451243;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;189;;;76311;515198.42;1166456.53;2013-12-04T00:00:00
+25465651;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;618;;;76311;515717.12;1166612.90;2013-12-04T00:00:00
+25517066;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;360;;;76311;515102.30;1166659.89;2013-12-04T00:00:00
+25572334;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;622;;;76311;516365.32;1168878.34;2014-02-12T00:00:00
+25681176;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;117;;;76311;515021.45;1168631.21;2014-02-12T00:00:00
+25741438;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;610;;;76311;515941.53;1166808.57;2013-12-04T00:00:00
+25791818;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.ev.;90;;;76311;515985.02;1166885.02;2013-12-04T00:00:00
+25791826;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;612;;;76311;515957.47;1168321.39;2014-02-12T00:00:00
+25799550;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;628;;;76311;516581.33;1168375.49;2014-02-12T00:00:00
+25805606;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;198;;;76311;515574.19;1166580.25;2013-12-04T00:00:00
+25813200;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;625;;;76311;515921.81;1166887.92;2013-12-04T00:00:00
+25912216;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;629;;;76311;515744.08;1166597.23;2013-12-04T00:00:00
+25912224;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;630;;;76311;515751.15;1166612.58;2013-12-04T00:00:00
+26044871;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;149;;;76311;515610.05;1168942.34;2014-02-12T00:00:00
+26118211;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;607;;;76311;515909.09;1168375.33;2014-02-12T00:00:00
+26122944;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;240;;;76311;516090.76;1168493.99;2014-02-12T00:00:00
+26187329;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;152;;;76311;515251.49;1168225.84;2014-02-12T00:00:00
+26187400;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;611;;;76311;516052.99;1166886.14;2013-12-04T00:00:00
+26233452;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;631;;;76311;515818.90;1166625.39;2013-12-04T00:00:00
+26241498;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;33;;;76311;515293.44;1166505.31;2013-12-04T00:00:00
+26273403;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;633;;;76311;515981.05;1168378.44;2014-02-12T00:00:00
+26300711;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;298;;;76311;515960.91;1167918.81;2014-02-12T00:00:00
+26491346;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;147;;;76311;516994.47;1168481.18;2014-02-12T00:00:00
+26563061;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;634;;;76311;516138.02;1169221.55;2014-02-12T00:00:00
+26563070;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;339;;;76311;515978.77;1167981.59;2014-02-12T00:00:00
+26626314;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;150;;;76311;516386.23;1169594.09;2014-02-12T00:00:00
+26640503;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;632;;;76311;516019.98;1168406.17;2014-02-12T00:00:00
+26675226;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;37;;;76311;513891.82;1170847.49;2014-02-12T00:00:00
+26675234;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;635;;;76311;515866.02;1168952.33;2014-02-12T00:00:00
+26744040;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.p.;636;;;76311;515873.17;1166473.67;2013-12-04T00:00:00
+26751160;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;637;;;76311;513799.85;1170931.53;2014-02-12T00:00:00
+26964449;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;7;;;76311;515471.14;1166555.68;2014-02-27T00:00:00
+26964457;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;54;;;76311;515137.51;1168779.86;2014-02-27T00:00:00
+26964465;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;103;;;76311;516016.04;1169731.76;2014-02-27T00:00:00
+26964473;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;108;;;76311;515095.51;1169135.95;2014-02-27T00:00:00
+26964481;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;110;;;76311;515006.39;1169345.33;2014-02-27T00:00:00
+26964490;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;112;;;76311;514579.54;1169089.61;2014-02-27T00:00:00
+26964503;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;114;;;76311;514841.32;1168615.26;2014-02-27T00:00:00
+26964511;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;122;;;76311;515584.01;1166818.31;2013-12-04T00:00:00
+26964538;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;138;;;76311;514982.86;1168643.01;2014-02-27T00:00:00
+26964546;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;139;;;76311;517047.86;1169162.27;2014-02-27T00:00:00
+26964554;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;144;;;76311;513823.10;1170941.48;2014-02-27T00:00:00
+26964562;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;163;;;76311;515669.53;1166653.10;2014-02-27T00:00:00
+26964571;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;203;;;76311;516980.01;1167975.57;2014-02-12T00:00:00
+26964597;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;224;;;76311;514877.35;1166688.47;2014-02-27T00:00:00
+26964601;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;236;;;76311;515568.35;1167540.38;2014-02-27T00:00:00
+26964619;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;259;;;76311;515847.31;1169027.54;2014-02-27T00:00:00
+26964627;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;274;;;76311;516936.17;1166856.60;2014-02-27T00:00:00
+26964643;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;305;;;76311;515520.33;1168972.80;2014-02-12T00:00:00
+26964651;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;310;;;76311;516075.72;1168394.48;2014-02-27T00:00:00
+26964660;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;329;;;76311;516065.13;1168371.59;2014-02-27T00:00:00
+26964678;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;348;;;76311;516423.21;1169134.98;2014-02-27T00:00:00
+26964686;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;455;;;76311;516097.72;1168575.44;2014-02-27T00:00:00
+27195872;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;627;;;76311;516001.47;1166933.54;2013-12-04T00:00:00
+27215687;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;560;;;76311;515384.01;1166601.12;2014-02-12T00:00:00
+27219101;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;51;;;76311;514927.58;1166510.79;2013-12-04T00:00:00
+27301125;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;638;;;76311;514963.37;1168413.03;2014-02-12T00:00:00
+27342263;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;639;;;76311;516151.70;1168115.35;2014-02-12T00:00:00
+27403751;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;45;;;76311;515251.77;1166584.96;2013-12-04T00:00:00
+27448169;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;643;;;76311;516179.78;1168087.54;2014-02-12T00:00:00
+27489400;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645486;Kút;č.p.;640;;;76311;515418.51;1166588.28;2014-02-12T00:00:00
+27521231;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644277;Nádražní;č.p.;18;;;76311;515326.02;1166390.68;2014-02-12T00:00:00
+27521249;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;645;;;76311;515054.10;1166877.62;2013-12-04T00:00:00
+27527646;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;641;;;76311;515718.95;1166771.08;2013-12-04T00:00:00
+27712508;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;647;;;76311;516066.83;1167882.23;2014-02-12T00:00:00
+27718239;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;642;;;76311;516457.11;1168747.56;2014-02-27T00:00:00
+27745368;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;177;;;76311;515680.74;1166470.18;2013-12-04T00:00:00
+27794261;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;64;;;76311;513758.88;1170880.03;2014-02-12T00:00:00
+27955851;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;68;;;76311;515297.39;1166571.20;2013-12-04T00:00:00
+28007824;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;646;;;76311;516096.00;1167936.00;2014-02-12T00:00:00
+28070526;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644382;Papírenská;č.p.;648;;;76311;514869.40;1166515.85;2013-12-04T00:00:00
+28168712;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;649;;;76311;515333.00;1169394.00;2014-02-12T00:00:00
+28202007;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;650;;;76311;516038.00;1169405.00;2014-02-12T00:00:00
+28233476;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;652;;;76311;514939.21;1166866.44;2013-12-04T00:00:00
+28233484;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;655;;;76311;515313.02;1166491.81;2014-02-10T00:00:00
+28243030;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;651;;;76311;516114.03;1167977.28;2014-02-12T00:00:00
+28462882;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;158;;;76311;516624.29;1168224.01;2014-02-12T00:00:00
+28462891;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;289;;;76311;516094.20;1168446.11;2014-02-12T00:00:00
+28462904;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;324;;;76311;516049.57;1168346.60;2014-02-12T00:00:00
+28462912;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;524;;;76311;516165.19;1168041.13;2014-02-12T00:00:00
+28462939;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;8;;;76311;515439.85;1166545.83;2014-02-10T00:00:00
+28462955;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644404;Podřevnická;č.p.;22;;;76311;515373.39;1166311.96;2013-12-04T00:00:00
+28463331;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;66;;;76311;515287.74;1166620.56;2013-12-04T00:00:00
+28463447;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;87;;;76311;515522.98;1166601.73;2013-12-04T00:00:00
+28463528;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;100;;;76311;516738.69;1168655.88;2014-02-12T00:00:00
+28463781;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;141;;;76311;516049.38;1169267.00;2014-02-12T00:00:00
+28470150;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;617;;;76311;515722.67;1166683.99;2013-12-04T00:00:00
+28470168;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;619;;;76311;516326.77;1169480.07;2014-02-12T00:00:00
+28470184;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;623;;;76311;518556.27;1170086.01;2014-02-12T00:00:00
+28470192;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;626;;;76311;515748.14;1167177.70;2014-02-12T00:00:00
+30039355;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;214;;;76311;515373.76;1166520.60;2013-12-04T00:00:00
+30961220;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;615;;;76311;515814.08;1167141.92;2014-02-12T00:00:00
+30961254;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;1;;;76311;514447.59;1169472.88;2014-02-12T00:00:00
+30961262;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;2;;;76311;515561.25;1166423.97;2013-12-04T00:00:00
+30961297;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;3;;;76311;514486.50;1169463.13;2014-02-12T00:00:00
+30961327;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;4;;;76311;515555.56;1166426.02;2013-12-04T00:00:00
+30961343;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;5;;;76311;514540.81;1169493.25;2014-02-12T00:00:00
+30961351;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;6;;;76311;514554.84;1169510.00;2014-02-12T00:00:00
+30961378;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;7;;;76311;514576.39;1169532.42;2014-02-12T00:00:00
+30961386;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;8;;;76311;514587.55;1169537.90;2014-02-12T00:00:00
+30961408;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;9;;;76311;514601.78;1169554.63;2014-02-12T00:00:00
+30961424;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;10;;;76311;514610.04;1169572.47;2014-02-12T00:00:00
+30961432;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;11;;;76311;513725.00;1171086.00;2014-02-12T00:00:00
+30961459;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;12;;;76311;513748.00;1171035.00;2014-02-12T00:00:00
+30961475;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;14;;;76311;513796.93;1171004.41;2014-02-12T00:00:00
+30961483;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;15;;;76311;513766.74;1170965.46;2014-02-12T00:00:00
+30961505;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.ev.;18;;;76311;516258.31;1166339.74;2013-12-04T00:00:00
+30961513;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;19;;;76311;513774.33;1170916.50;2014-02-12T00:00:00
+30961521;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;20;;;76311;513784.74;1170894.42;2014-02-12T00:00:00
+30961530;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;21;;;76311;513793.56;1170877.53;2014-02-12T00:00:00
+30961548;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;22;;;76311;513809.92;1170859.22;2014-02-12T00:00:00
+30961556;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;23;;;76311;513816.33;1170831.84;2014-02-12T00:00:00
+30961564;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;25;;;76311;513861.51;1170803.80;2014-02-12T00:00:00
+30961572;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;26;;;76311;513819.02;1170890.40;2014-02-12T00:00:00
+30961581;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;28;;;76311;513840.50;1170855.94;2014-02-12T00:00:00
+30961599;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;29;;;76311;513847.29;1170824.30;2014-02-12T00:00:00
+30961602;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;30;;;76311;514872.42;1169942.58;2014-02-12T00:00:00
+30961611;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;31;;;76311;513851.23;1170877.00;2014-02-12T00:00:00
+30961629;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;33;;;76311;513876.22;1170843.51;2014-02-12T00:00:00
+30961637;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;34;;;76311;513893.84;1170808.63;2014-02-12T00:00:00
+30961645;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;36;;;76311;513873.54;1170870.61;2014-02-12T00:00:00
+30961653;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;38;;;76311;513902.93;1170830.31;2014-02-12T00:00:00
+30961661;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;39;;;76311;513883.77;1170891.97;2014-02-12T00:00:00
+30961670;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;40;;;76311;513895.45;1170872.05;2014-02-12T00:00:00
+30961688;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;41;;;76311;513906.42;1170852.06;2014-02-12T00:00:00
+30961696;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;42;;;76311;513920.99;1170826.16;2014-02-12T00:00:00
+30961700;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;43;;;76311;513890.23;1170908.06;2014-02-12T00:00:00
+30961718;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;45;;;76311;513924.98;1170853.64;2014-02-12T00:00:00
+30961726;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;46;;;76311;513937.28;1170831.41;2014-02-12T00:00:00
+30961734;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;50;;;76311;513937.04;1170867.17;2014-02-12T00:00:00
+30961742;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;51;;;76311;513958.13;1170846.57;2014-02-12T00:00:00
+30961751;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;52;;;76311;513943.29;1170906.65;2014-02-12T00:00:00
+30961769;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;54;;;76311;513959.99;1170874.74;2014-02-12T00:00:00
+30961777;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;55;;;76311;513966.92;1170856.49;2014-02-12T00:00:00
+30961785;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;58;;;76311;513920.28;1170934.18;2014-02-12T00:00:00
+30961793;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;60;;;76311;513961.67;1170912.57;2014-02-12T00:00:00
+30961807;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;61;;;76311;513974.01;1170896.71;2014-02-12T00:00:00
+30961815;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;62;;;76311;513987.56;1170868.35;2014-02-12T00:00:00
+30961823;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;68;;;76311;516553.71;1167179.67;2014-02-12T00:00:00
+30961831;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;71;;;76311;517019.82;1168818.82;2014-02-12T00:00:00
+30961840;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.ev.;77;;;76311;516066.07;1166925.81;2013-12-04T00:00:00
+30961858;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;78;;;76311;516867.15;1167110.33;2014-02-12T00:00:00
+30961866;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;79;;;76311;516830.82;1167103.77;2014-02-12T00:00:00
+30961874;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;82;;;76311;516847.94;1167105.54;2014-02-12T00:00:00
+30961882;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;84;;;76311;516792.62;1166911.43;2014-02-12T00:00:00
+30961891;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;85;;;76311;516283.54;1168778.79;2014-02-12T00:00:00
+30961904;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;86;;;76311;516878.65;1167112.36;2014-02-12T00:00:00
+30961912;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;100;;;76311;516212.27;1165984.20;2013-12-04T00:00:00
+30961921;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;109;;;76311;517076.55;1169007.42;2014-02-12T00:00:00
+30961939;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;110;;;76311;517063.08;1169009.25;2014-02-12T00:00:00
+30961947;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;111;;;76311;517044.18;1169010.45;2014-02-12T00:00:00
+30961955;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;112;;;76311;517029.95;1169015.13;2014-02-12T00:00:00
+30961963;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;113;;;76311;517012.41;1169018.23;2014-02-12T00:00:00
+30961971;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;116;;;76311;513738.94;1170952.75;2014-02-12T00:00:00
+30961980;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;117;;;76311;513920.59;1170904.30;2014-02-12T00:00:00
+30961998;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;118;;;76311;513927.46;1170882.69;2014-02-12T00:00:00
+30962005;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;120;;;76311;513953.76;1170889.77;2014-02-12T00:00:00
+30962013;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;130;;;76311;516266.21;1165998.80;2013-12-04T00:00:00
+30962021;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;131;;;76311;516252.24;1166000.75;2013-12-04T00:00:00
+30962030;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;134;;;76311;516220.12;1165999.37;2013-12-04T00:00:00
+30962048;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;136;;;76311;516195.09;1166002.33;2013-12-04T00:00:00
+30962056;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;137;;;76311;516182.32;1166003.78;2013-12-04T00:00:00
+30962064;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;138;;;76311;516256.23;1165978.21;2013-12-04T00:00:00
+30962072;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;139;;;76311;516233.22;1165978.75;2013-12-04T00:00:00
+30962081;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;141;;;76311;516193.24;1165986.34;2013-12-04T00:00:00
+30962099;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;142;;;76311;516181.17;1165987.97;2013-12-04T00:00:00
+30962102;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;144;;;76311;516178.02;1165954.64;2013-12-04T00:00:00
+30962111;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;154;;;76311;516070.76;1166946.82;2013-12-04T00:00:00
+30962129;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;155;;;76311;513904.05;1170886.24;2014-02-12T00:00:00
+30962137;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;158;;;76311;513843.06;1170950.09;2014-02-12T00:00:00
+30962145;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644960;Batalická;č.ev.;286;;;76311;517084.67;1166366.00;2013-12-04T00:00:00
+31336825;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;599;;;76311;515547.93;1167136.40;2014-06-23T00:00:00
+31336841;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;27;;;76311;513831.78;1170870.22;2014-02-12T00:00:00
+40163831;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;157;;;76311;514610.09;1168991.16;2014-02-27T00:00:00
+40163849;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;225;;;76311;517163.78;1171108.58;2014-02-27T00:00:00
+40418448;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;644;;;76311;516024.72;1166907.78;2013-12-04T00:00:00
+40464881;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.ev.;160;;;76311;514507.40;1169469.56;2014-02-12T00:00:00
+40464989;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;656;;;76311;515714.89;1167165.35;2014-02-12T00:00:00
+40465152;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647152;Pod Stráží;č.ev.;161;;;76311;515045.32;1166732.35;2014-02-12T00:00:00
+40705579;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;796824;Přílucká;č.p.;653;;;76311;515582.17;1166417.92;2013-12-04T00:00:00
+41127587;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;659;;;76311;515510.55;1167048.35;2013-12-04T00:00:00
+41370899;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;660;;;76311;515906.25;1168907.12;2014-02-12T00:00:00
+42135311;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;645907;Nad Školou;č.p.;658;;;76311;514871.88;1166858.11;2013-12-04T00:00:00
+42380979;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;657;;;76311;516558.56;1169257.90;2014-02-12T00:00:00
+42738792;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644251;Lysá;č.p.;662;;;76311;515824.08;1166759.21;2013-12-04T00:00:00
+70527661;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;661;;;76311;516308.27;1168274.21;2014-02-12T00:00:00
+71027556;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;663;;;76311;517035.77;1167973.32;2014-02-12T00:00:00
+72456213;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;665;;;76311;516307.58;1168136.33;2014-03-25T00:00:00
+72507730;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;666;;;76311;515818.74;1167104.25;2014-04-03T00:00:00
+72507900;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;667;;;76311;515861.55;1167079.88;2014-04-03T00:00:00
+72547791;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;664;;;76311;517277.93;1168014.19;2014-04-09T00:00:00
+72637463;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;654;;;76311;516044.27;1167752.69;2014-05-06T00:00:00
+72850124;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;668;;;76311;516005.93;1168276.78;2014-06-26T00:00:00
+73100072;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;;;č.ev.;162;;;76311;516497.02;1167562.83;2014-10-02T00:00:00
+73663174;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;670;;;76311;515895.21;1168463.22;2015-05-06T00:00:00
+73978566;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;672;;;76311;515282.39;1168213.98;2015-08-24T00:00:00
+74660071;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;;;č.ev.;35;;;76311;513857.11;1170894.37;2016-03-03T00:00:00
+75190532;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644358;Osvobození;č.ev.;163;;;76311;516275.31;1165994.96;2016-07-13T00:00:00
+75327503;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;674;;;76311;516327.49;1168787.30;2016-09-08T00:00:00
+75608553;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;673;;;76311;516082.01;1167919.62;2016-12-05T00:00:00
+75790653;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;644196;4. května;č.p.;678;;;76311;514524.31;1166935.72;2017-01-31T00:00:00
+76074021;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;676;;;76311;515958.25;1168930.33;2017-04-12T00:00:00
+77568257;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647241;Výpusta;č.p.;675;;;76311;515513.10;1166684.74;2017-08-14T00:00:00
+78135826;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;647268;Paseky;č.p.;679;;;76311;515823.64;1167199.84;2018-03-19T00:00:00
+78297036;500011;Želechovice nad Dřevnicí;;;;;195901;Želechovice nad Dřevnicí;;;č.p.;677;;;76311;516052.07;1167864.04;2018-04-27T00:00:00

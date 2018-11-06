@@ -1,0 +1,33 @@
+name: ruian_api
+description: A sample command-line application.
+version: 0.0.1
+#homepage: https://www.example.com
+#author: tomucha <email@example.com>
+
+environment:
+  sdk: '>=1.21.0 <2.0.0'
+
+dependencies:
+  csv: '^3.1.2'
+  edit_distance: '^0.3.0'
+  args: 'any'
+  shelf_rest: '^0.3.5'
+  http: '0.11.3+9'
+  archive: '^1.0.31'
+  logging: '^0.11.3+1'
+  shelf_static: '^0.2.5'
+  crypto: '^2.0.2'
+  mailer: '^1.1.4'
+  fnx_ui:
+    git:
+      url: https://github.com/fnx-io/fnx_ui
+      ref: master
+
+dev_dependencies:
+  test: '^0.12.0'
+  mockito: '^2.2.2'
+  browser: '>=0.10.0 <0.11.0'
+  dart_to_js_script_rewriter: '^1.0.1'
+
+transformers:
+- dart_to_js_script_rewriter

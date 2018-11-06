@@ -1,0 +1,57 @@
+.content {
+    margin: 0 auto;
+    max-width: 60em;
+}
+
+.fnx-logo {
+    height: 5em;
+}
+
+.heading {
+    display: block;
+    width: 100%;
+    font-size: 100px;
+    font-family: Impact, serif;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.subheading {
+    width: 100%;
+    font-size: 32px;
+    text-align: center;
+    color: #666;
+}
+.subheading a {
+    text-decoration: none !important;
+    border-bottom: 1px dotted #777;
+}
+.subheading a:hover {
+    border-bottom: 1px solid #777;
+}
+.subheading + .paragraph {
+    margin-top: 4rem;
+}
+pre {
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    margin: 10px 0;
+}
+
+.bg--light-grey {
+    background: #f1f1f1 !important;
+}
+
+.api-key-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.api-key-form button,
+.api-key-form input {
+    order: 1;
+}
