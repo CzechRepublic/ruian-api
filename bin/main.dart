@@ -4,7 +4,6 @@ import 'package:args/args.dart';
 import 'package:logging/logging.dart';
 import 'package:ruian_api/ruian.dart';
 import 'package:ruian_api/src/builder/builder.dart';
-import 'package:ruian_api/src/mail_service.dart';
 import 'package:ruian_api/src/repository/downloader.dart';
 import 'package:ruian_api/src/repository/repository_builder.dart';
 import 'package:ruian_api/src/repository/repository_updater.dart';
@@ -58,9 +57,7 @@ main(List<String> arguments) async {
   try {
     print(config.executionPath);
 
-    final mailService = new MailService();
-    final repoHandler = new RepositoryUpdater(config, new Downloader(config),
-        new RepositoryBuilder(config), mailService);
+    final repoHandler = new RepositoryUpdater(config, new Downloader(config), new RepositoryBuilder(config));
 
     new Server(
         configuration: config,

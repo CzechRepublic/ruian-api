@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:logging/logging.dart';
-import 'package:ruian_api/src/mail_service.dart';
 import 'package:ruian_api/src/repository/downloader.dart';
 import 'package:ruian_api/src/repository/place_request.dart';
 import 'package:ruian_api/src/repository/place_response.dart';
@@ -14,8 +13,6 @@ class RepositoryUpdater {
   static final Logger _log = new Logger('RepositoryUpdater');
 
   final Configuration _config;
-
-  final MailService _mailService;
 
   final Downloader _downloader;
 
@@ -29,7 +26,7 @@ class RepositoryUpdater {
 
   Repository get repository => _state?.repository;
 
-  RepositoryUpdater(this._config, this._downloader, this._repoBuilder, this._mailService,) {
+  RepositoryUpdater(this._config, this._downloader, this._repoBuilder,) {
     _state = new RepositoryState()..dataPath = _config.dataPath;
   }
 
@@ -48,8 +45,6 @@ class RepositoryUpdater {
       }
     } catch (e, s) {
       _log.severe('Error occured while processing new repository data.', e, s);
-      _mailService.send(
-          subject: 'RUIAN error processing new repository data', text: e);
     }
 
     try {
@@ -62,9 +57,6 @@ class RepositoryUpdater {
       var message = 'Error updating to new repository ${_state
           .latestDataPath}.';
       _log.severe(message, e, s);
-      _mailService.send(
-          subject: 'RUIAN error updating to new repository',
-          text: '$message \ncause: $e');
     }
 
     _log.info('Automatic update finished, using repository data from ${_state
@@ -80,9 +72,6 @@ class RepositoryUpdater {
     _state.latestDataPath = null;
 
     _log.info('New repository created from $dataPath source.');
-    _mailService.send(
-        subject: 'RUIAN new repository',
-        text: 'New repository created from $dataPath source.');
   }
 
   Future<Null> deleteOldData() async {
@@ -139,6 +128,9 @@ class RepositoryUpdater {
 
   Future<String> get latestLocalRepoDir async {
     Directory f = new Directory('$dataDirectory');
+    if (!await f.exists()) {
+      await f.create();
+    }
 
     var pathComparator =
         (e1, e2) => e1 == null ? e2 : e1.path.compareTo(e2.path) > 0 ? e1 : e2;

@@ -1,12 +1,23 @@
 # RUAIN API
 
+Registr RUIAN je užitečná věc. Ale připojit se na něj obnáší prokousat se nehoráznými stohy dokumentace. A co za to dostanete?
+SOAP rozhraní… 👎
+
+Protože máme raději REST (JSON over HTTP) než SOAP, vyřešili jsme si to po svém.
+Data RUIANu jsou naštěstí volně ke stažení a jsme tak malá zemička, že se všechny naše adresy dají obsluhovat in-memory.
+A když už to máme, proč se nerozdělit.
+
+## ... as a service
+
+Viz: https://ruian.fnx.io/
+
 ## Závislosti
 
-Spustění je závislé na <a href="https://webdev.dartlang.org/tools/sdk/archive">dart SDK 1.21+</a>, a standardních unix nástrojích `recode` a `bash`.
+Spustění je závislé na <a href="https://webdev.dartlang.org/tools/sdk/archive">dart SDK >=1.21 <2.0 </a>, a standardních unix nástrojích `recode` a `bash`.
 
 ## Před spuštěním
 
-Před spuštěním serveru je potřeba stáhnout závislosti (`pub get`) a udělat build webu (`pub build web`, obsah pro web (`localhost/`) se hledá v adresáři `/build/web/`).
+Před spuštěním serveru je potřeba stáhnout závislosti (`pub get`).
 
 ## Spuštění serveru
 
@@ -19,6 +30,8 @@ Server se spouští s 2 parametry - výchozí data a port.
 Výchozí data směřují na složku, ve které se nachází `*.csv` soubory s daty. Po spuštění aplikace autonomně ověří data a pokud je možné stáhnout aktualizaci, stáhne ji, zpracuje soubory a vymění data. 
 
 Jako port se uvádí celé číslo (`int`) portu, např. `8123`.
+
+První start zabere tak minutu až dvě - server si stáhne aktuální data a zpracuje je.
 
 ## Validátor
 
